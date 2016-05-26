@@ -1,1 +1,3 @@
 # yzinkovets
+
+just test
